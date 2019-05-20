@@ -1,0 +1,14 @@
+.glyphicon-menu-hamburger{
+    color:#fff;
+    float: left;
+    background-color: transparent;
+    background-image: none;
+    padding: 15px 15px;}
+.glyphicon-menu-hamburger:hover{
+    color:#f6f6f6;background:rgba(0,0,0,0.1)}
+.glyphicon-menu-hamburger:hover{background-color:#d73925}@media (max-width:767px){.skin-red .main-header .navbar .dropdown-menu li.divider{background-color:rgba(255,255,255,0.1)}.skin-red .main-header .navbar .dropdown-menu li a{color:#fff}.skin-red .main-header .navbar .dropdown-menu li a:hover{background:#d73925}}
+
+#myInput {
+    float: right;
+    border-bottom-color: #d73925;
+}
